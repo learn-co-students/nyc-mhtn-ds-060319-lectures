@@ -1,4 +1,4 @@
-# Lecture Notes for nyc-mhtn-ds-031119 :floppy_disk:
+# Lecture Notes for nyc-mhtn-ds-061319 :floppy_disk:
 
 ## To update a local repo after forking and cloning
 
