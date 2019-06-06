@@ -33,5 +33,5 @@ git merge upstream/master -m 'what you updated'
 
 6. Push the changes to the forked lecture repo :raised_hands:
 ```
-git push
+git push  
 ```
