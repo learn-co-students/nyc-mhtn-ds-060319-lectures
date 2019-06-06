@@ -29,9 +29,9 @@ git branch
 5. Merge the new changes from the upstream learn-co lecture notes repo, with a commit message
 ```
 git merge upstream/master -m 'what you updated'
-```
+``` 
 
 6. Push the changes to the forked lecture repo :raised_hands:
 ```
-git push  
+git push
 ```
