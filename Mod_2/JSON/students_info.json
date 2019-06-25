@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "name": "Kevin",
+      "major": "biomedical_engineering",
+      "project_grades": ["A","A-","A-","B+","A"]
+    },
+    {
+      "name": "Justin",
+      "major": "Chemistry",
+      "project_grades": ["A-","B+","A","B","A+"]
+    },
+    {
+      "name": "Luke",
+      "major": "Economics",
+      "project_grades": ["A-","A-","B+","B+","A"]
+    }]
+}
