@@ -6,3 +6,7 @@
 [- Statistical Distribution I the Normal Distribution](https://docs.google.com/presentation/d/19ZooTe_pr3dh2-SgXinrG7UNsjwuhCsLKS3_iYC56VU/edit#slide=id.g495019ce69_0_184)
 
 [- Sampling](https://docs.google.com/presentation/d/1zb_ieJ0JWeuLoOWqZT60MMXTULPb8b3C6X3ieYF0IGU/edit?usp=sharing)
+
+[- Hypothesis Testing I](https://docs.google.com/presentation/d/1pAvRENMoBcJEmVyW33siqw-DIp5l7Uk1iGbLi6B7b38/edit#slide=id.ge62ba7c8e_0_0
+
+[- Hypothesis Testing II](https://docs.google.com/presentation/d/1kaX-n_-h--NUPiU6Y0uSkQXocM_FX9qW-GnmKNG0oRA/edit#slide=id.g5890fb8288_0_242)
