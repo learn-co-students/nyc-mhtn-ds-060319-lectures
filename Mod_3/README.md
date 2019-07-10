@@ -10,3 +10,5 @@
 [- Hypothesis Testing I](https://docs.google.com/presentation/d/1pAvRENMoBcJEmVyW33siqw-DIp5l7Uk1iGbLi6B7b38/edit#slide=id.ge62ba7c8e_0_0)
 
 [- Hypothesis Testing II](https://docs.google.com/presentation/d/1kaX-n_-h--NUPiU6Y0uSkQXocM_FX9qW-GnmKNG0oRA/edit#slide=id.g5890fb8288_0_242)
+
+[- Bayesian Statistics](https://docs.google.com/presentation/d/1OFwHNh9pJK5iT7cBog0aQfAylutTSqCiRKSeDqkAQ_Y/)
